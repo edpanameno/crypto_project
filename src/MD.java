@@ -1,4 +1,3 @@
-// By Dr. Ramirez
 // Demonstration of the MD5 algorithm in Java.  See also MessageDigest
 // in the Java API for more information
 import java.security.*;
